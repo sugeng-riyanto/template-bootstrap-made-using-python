@@ -7,7 +7,7 @@ src="{{url_for('static',filename='dist/js/demo.js')}}"
 src="{{url_for('static',filename='
 )}}
 .js
-
+#https://replit.com/@Sugeng-Riyanto/belajar-admin#templates/index.html 
  <!-- =======================================================
 href="{{url_for('static',filename=')
   src="{{url_for('static',filename='dist/js/demo.js')}}"
